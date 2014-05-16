@@ -1,0 +1,13 @@
+<?php
+$count = -98030;
+while ($count <=-1){
+	echo ("$count BC ");
+	$count++;
+}
+
+$count = 1;
+while ($count <=1969){
+	echo ("$count AD ");
+	$count++;
+}?>
+

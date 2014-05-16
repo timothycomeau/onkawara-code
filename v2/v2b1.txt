@@ -1,0 +1,7 @@
+<?php
+$count = 1980;
+while ($count <=101980){
+	echo ("$count AD ");
+	$count++;
+}?>
+
