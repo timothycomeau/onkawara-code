@@ -5,6 +5,6 @@ Site for The On Kawara Code, a web project to reproduce the work of artist [On K
 
 The project dates from 2008 and was released on Github in 2014.
 
-See the project site at [onkawara.timothycomeau.com](http://onkawara.timothycomeau.com)
+See the project site at [http://onkawaracode.timothycomeau.com/](http://onkawaracode.timothycomeau.com/)
 
 ![On-Kawara-Code-screencap](http://timothycomeau.com/d/lib/img/on-kawara/01.png)
